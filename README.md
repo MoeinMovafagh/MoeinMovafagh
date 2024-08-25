@@ -17,6 +17,7 @@ PhD Research: Achieved 83% accuracy in stroke classification.
 Generative AI: Created brain images using GANs and diffusion models.
 Publications: IEEE Sensor Journal & IEEE Biomedical Engineering, IEEE Transaction on Image Processing.
 Patent: Co-authored a European Patent on radar technology.
+
 🌐 Let's Connect
 I'm open to collaborations and discussions on AI and machine learning.
--->
+-->  moienmovafagh@gmail.com
